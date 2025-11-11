@@ -28,4 +28,4 @@ Xx
 - Engineering Center for Academic Success: [ECAS](https://ecas.engin.umich.edu/)
 
 ## Our flyer
-![Flyer](assets/images/flyer.jpg)
+<embed src="flyer.pdf" type="application/pdf" width="100%" height="800px" />
