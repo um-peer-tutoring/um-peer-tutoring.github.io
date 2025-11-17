@@ -60,12 +60,7 @@ layout: default
     <article class="info-card">
       <h3>Contact Information</h3>
       <ul class="contact-list">
-        <li>Zihan Wang &lt;zihanwan@umich.edu&gt;</li>
-        <li>Partha Sutradhar &lt;parthasd@umich.edu&gt;</li>
-        <li>Jeff Ma &lt;jeffjma@umich.edu&gt;</li>
-        <li>Matthew Lajoie &lt;milajoie@umich.edu&gt;</li>
-        <li>Nida Khan &lt;nidamk@umich.edu&gt;</li>
-        <li>Shivanie Kodikalla &lt;shivko@umich.edu&gt;</li>
+        <li>Email: <a href="mailto:peer.tutoring@umich.edu">peer.tutoring@umich.edu</a></li>
       </ul>
     </article>
   </div>
